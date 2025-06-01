@@ -1,0 +1,98 @@
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+}
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+div {
+  width: 1120px;
+  height: auto;
+  margin: 88px auto;
+}
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+hr {
+  margin-bottom: 40px;
+  line-height: 1px;
+}
+#ooo {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  line-height: 1px;
+}
+#titlepage h1 {
+  margin-top: -8px;
+}
+#subtitle {
+  font-style: italic;
+}
+ul > li {
+  margin-left: -25px;
+}
+#assm {
+  text-align: center;
+}
+.headline {
+  font-size: 16px;
+  font-weight: bold;
+  color: #e1624f;
+}
+#ss {
+  margin-top: 80px;
+}
+#title h2 {
+  margin-top: -70px;
+}
+#descimg img {
+  width: 100%;
+  height: 660;
+}
+#descimg p {
+  font-size: 16px;
+  text-align: center;
+}
+#titlelist p {
+  text-align: start;
+  margin-bottom: 64px;
+}
+.cardtravel img {
+  height: 375px;
+  object-fit: cover;
+}
+#bpara {
+  font-weight: bold;
+  margin-bottom: -15px;
+}
+#contentlist p {
+  margin-top: -20px;
+}
+footer p {
+  width: max-content;
+  display: block;
+  margin: 18px auto;
+  font-size: 16px;
+}
+.contentcard h3 {
+  color: #1b1b1b;
+}
+.contentcard p {
+  color: #333333;
+}
+.cardtravel img {
+  margin-top: 48px;
+}
+footer img {
+  width: auto;
+}
